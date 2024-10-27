@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimuladorDeFarm&theme=radical)](https://github.com/SimuladorDeFarm/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimuladorDeFarm&theme=radical)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimuladorDeFarm&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)

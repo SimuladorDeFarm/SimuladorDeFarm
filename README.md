@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 ![imagen](https://github.com/user-attachments/assets/da35d1de-7591-4992-8b76-8de44d7d805e)
 ![imagen](https://github.com/user-attachments/assets/d55826fd-fca8-477d-82e0-e01cf76af15c)
 
-
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimuladorDeFarm)](https://github.com/SimuladorDeFarm/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimuladorDeFarm&theme=dark)](https://git.io/streak-stats)
 

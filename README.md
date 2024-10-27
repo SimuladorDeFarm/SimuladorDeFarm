@@ -1,5 +1,5 @@
 <h1 align = "center">Hi👋, I'm Tomas Farias  </h1>
-<p align = "center"> i'm student of computation engeenier, i like linux</p>
+<p align = "center"> i'm from Chile 🇨🇱 and i'm a student of computation engeenier, i like linux</p>
 
 Here are some ideas to get you started:
 

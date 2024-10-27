@@ -1,4 +1,4 @@
-<h1 align = "center">## Hi👋, I'm Tomas Farias  </h1>h1>
+<h1 align = "center">Hi👋, I'm Tomas Farias  </h1>
 i'm student of computation engeenier, i like linux and cats
 
 Here are some ideas to get you started:
